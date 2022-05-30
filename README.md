@@ -1,2 +1,2 @@
 # SDL3
-Subspace Distillation for Continual Learning
+Subspace Distillation for Lifelong Learning
